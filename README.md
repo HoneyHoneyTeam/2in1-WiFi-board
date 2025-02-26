@@ -1,7 +1,7 @@
 # 2in1 WIFI Board with Screen
 Update: 26 Feb 2025 by John @ Honey Honey Team
 
-![Alt text](assets/images/Front.WithFZ.white.jpg)
+![Alt text](assets/images/3dcase-6.jpg)
 ![Alt text](assets/images/Front.withoutFZ.white.black.jpg)
 ![Alt text](assets/images/back.withoutFZ.white.black.jpg)
 ![Alt text](assets/images/Back.WithoutFZ%2Cwhite.black.jpg)
