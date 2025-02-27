@@ -1,5 +1,5 @@
-# 2in1 WIFI Board with Screen
-Update: 26 Feb 2025 by John @ Honey Honey Team
+# 2in1 WiFi MultiBoard (ESP32 + nRF24)
+Update: 27 Feb 2025 by John @ Honey Honey Team
 
 ![Alt text](assets/images/3dcase-6.jpg)
 ![Alt text](assets/images/Front.withoutFZ.white.black.jpg)
@@ -15,30 +15,27 @@ Update: 26 Feb 2025 by John @ Honey Honey Team
 
 ## What is it, and what can the board do??
 
-The 3-in-1 board contains three chipsets: ESP32, nRF24, and CC1101. 
+The 2-in-1 WiFiboard contains Two chipsets: ESP32 and nRF24 
 
-It is designed to extend the functionality of the Flipper Zero, adding support for Wi-Fi (by ESP32 + Marauder firmware), 2.4GHz RF (by nRF24), and expanded SubGHz coverage (by CC1101).
+It is designed to extend the functionality of the Flipper Zero, adding support for Wi-Fi (by ESP32 + Marauder firmware) and 2.4GHz RF (by nRF24)
 
 <br/>
 
 ## Specification of the board
 
 - ESP32-S2 Chipset for Wifi & Pre-load with Marauder 
-- CC1101 SubGhz chipset (433mhz) with amplifier
-- NRF24 2.4Ghz Chipset 
-- 1.2 inch Screen  
-- 3 * SMA antenna for 3 individual chipsets 
-- 3-way toggle controller for functionality selection (left, right and enter) 
-- Onboard BOOT bottom (Right) and RESET bottom (Left) 
+- NRF24 2.4Ghz Chipset
+- Onboard switch for functionality selection
+- Sentry safe pin, Reset button 
+- 1 * SMA antenna for 3 individual chipsets 
+- Onboard BOOT bottom and EN1 bottom 
 - MicroSD card slot 
-- USB C Connector
 
 <br/>
 
   
 ## How the board operate 
-
-- Simply plug the board into the Flipper Zero, use the toggler to select one of the three chipsets and confirm the selection, then choose one of the relative apps on the Flipper, and you're good to go.
+- Simply plug the board into the Flipper Zero, use the switch to select the chipset: 'N' stands for the nRF24 chipset, and 'E' stands for ESP32. Then, choose one of the corresponding apps on the Flipper, and you're good to go.
 - The nRF24 and CC1101 chipsets do not require additional firmware to function. Most Flipper Zero firmware, including Momentum, Unleashed, and others, support them natively.
 - The ESP32 requires Marauder firmware to function, and it comes pre-loaded with the firmware on the ESP32 chipset.
 
