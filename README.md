@@ -1,14 +1,13 @@
 # 2in1 WiFi MultiBoard (ESP32 + nRF24)
 Update: 27 Feb 2025 by John @ Honey Honey Team
 
-![Alt text](assets/images/3dcase-6.jpg)
-![Alt text](assets/images/Front.withoutFZ.white.black.jpg)
-![Alt text](assets/images/back.withoutFZ.white.black.jpg)
-![Alt text](assets/images/Back.WithoutFZ%2Cwhite.black.jpg)
-![Alt text](assets/images/side.withoutFZ.white.black.jpg)
-![Alt text](assets/images/Top.withFZ.white.jpg)
-![Alt text](assets/images/Top.WithFZ.black.jpg)
-![Alt text](assets/images/antenna.bottom.jpeg)
+![Alt text](Assets/images/SlimJimseries.jpg)
+![Alt text](Assets/images/SlimJim-Coral4.jpg)
+![Alt text](Assets/images/SlimJim-Coral3.jpg)
+![Alt text](Assets/images/SlimJim-Coral2.jpg)
+![Alt text](Assets/images/Alright.3d.case.2.jpg)
+![Alt text](Assets/images/Alright.3dcase.1.jpg)
+![Alt text](Assets/images/Alright.3dcase-6.jpg)
 
 <br/>
 
