@@ -28,7 +28,8 @@ It is designed to extend the functionality of the Flipper Zero, adding support f
 - Sentry safe pin, Reset button 
 - 1 * SMA antenna for 3 individual chipsets 
 - Onboard BOOT bottom and EN1 bottom 
-- MicroSD card slot 
+- MicroSD card slot
+- 3D printed case (White, Crystal and Coral)
 
 <br/>
 
