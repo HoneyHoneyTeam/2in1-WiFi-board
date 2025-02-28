@@ -33,6 +33,14 @@ It is designed to extend the functionality of the Flipper Zero, adding support f
 
 <br/>
 
+## What is the difference between our boards for Flipper Zero. 
+
+<br/>
+
+![Alt text](https://github.com/HoneyHoneyTeam/3in1-WiFi-MultiBoard/blob/main/Assets/images/3boardsInComparison.png)
+
+<br/>
+
   
 ## How the board operate 
 - Simply plug the board into the Flipper Zero, use the switch to select the chipset: 'N' stands for the nRF24 chipset, and 'E' stands for ESP32. Then, choose one of the corresponding apps on the Flipper, and you're good to go.
