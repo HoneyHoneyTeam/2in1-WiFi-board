@@ -55,13 +55,13 @@ It is designed to extend the functionality of the Flipper Zero, adding support f
 
 <br/>
 
-To upgrade the Marauder of this Multiboard, we suggest using [ESP32 Flasher] from Momentum / Unleashed / Xtreme firmware. How to nevigate between menu and name of the menu might vary from firmware and firmware, but 90% should be identical
+To upgrade the Marauder of this Multiboard, we suggest using [**ESP32 Flasher**] from Momentum / Unleashed / Xtreme firmware. How to nevigate between menu and name of the menu might vary from firmware and firmware, but 90% should be identical
 
 1. The testing environment is Xtreme Firmware 0053 Version.
 
-2. While holding the < Boot1 / B > button on the board, click the < EN1 / E> button, then release the < Boot1 / B> button, then release the < EN1 / E> button. The board should be in bootloader mode now
+2. While **holding** the < **Boot1 / B** > button on the board, **click** the < **EN1 / E**> button, then **release** the < **Boot1 / B**> button, then **release** the < **EN1 / E**> button. The board should be in bootloader mode now
    
-3. Navigating Flipper Zero menu as following: < Apps > => < GPIO > => < [ESP] ESP Flasher > => < Quick Flash > => < Other ESP32-S2 > = < Marauder >
+3. Navigating Flipper Zero menu as following: < **Apps** > => < **GPIO** > => < **[ESP] ESP Flasher** > => < **Quick Flash** > => < **Other ESP32-S2** > = < **Marauder** >
    
 4. Flipper should start flashing the board with Marauder firmware from this point.
 
